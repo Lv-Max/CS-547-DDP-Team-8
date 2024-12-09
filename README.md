@@ -3,10 +3,9 @@
 ## Team Members:
 
 	Chongbin Yao  
-
-Hongxiao Chen  
-Vincent Lyu  
-Wendi Zhao
+	Hongxiao Chen  
+	Vincent Lyu  
+	Wendi Zhao
 
 ## Problem Overview
 
